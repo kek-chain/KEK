@@ -4,7 +4,7 @@
 ---
 # Genesis  File
 ___
-This docunment explains how KeK chain is Structured
+This document explains how KeK chain is Structured
 
 ## What is a Genesis File
 
