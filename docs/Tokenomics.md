@@ -16,6 +16,9 @@
 |Strategic Partners & Reserve|30,000,000|3%|
 ___
 
+|Tax|10% Buy & Sell|
+|Tax Allocated|60% Development , 40% Marketing|
+
 # KEK MAINET
 `TBA`
 
