@@ -17,6 +17,7 @@
 ___
 
 |Tax|10% Buy & Sell|
+|-----|-----|
 |Tax Allocated|60% Development , 40% Marketing|
 
 # KEK MAINET
