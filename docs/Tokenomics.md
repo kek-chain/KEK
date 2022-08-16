@@ -20,6 +20,6 @@ ___
 |-----|-----|
 |Tax Allocated|60% Development , 40% Marketing|
 
-# KEK MAINET
+# KEK MAINNET
 `TBA`
 
