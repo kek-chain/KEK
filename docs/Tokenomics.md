@@ -7,7 +7,7 @@
 |---------|-------|-------|
 |Total Supply|1,000,000,000 | 100%|
 |Public Presale|360,000,000|36%|
-|Private sale/Seed|195,000,000|19%|
+|Private sale/Seed|195,000,000|19.5%|
 |Liquidity on UniSwap|240,000,000 (Circulating Supply)|24%|
 |Team Token|50,000,000|5%|
 |Team Token Vested|50,000,000|5% (Vested)|
