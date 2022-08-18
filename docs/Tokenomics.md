@@ -6,13 +6,13 @@
 |Parameter| Value |percentage %|
 |---------|-------|-------|
 |Total Supply|1,000,000,000 | 100%|
-|Public Presale|250,000,000|25%|
-|Private sale/Seed|150,000,000|15%|
-|Liquidity on UniSwap|400,000,000 (Circulating Supply)|40%|
+|Public Presale|360,000,000|36%|
+|Private sale/Seed|195,000,000|19%|
+|Liquidity on UniSwap|240,000,000 (Circulating Supply)|24%|
 |Team Token|50,000,000|5%|
 |Team Token Vested|50,000,000|5% (Vested)|
-|Airdrops|20,000,000|2%|
-|Marketing|50,000,000|5%|
+|Airdrops|15,000,000|1.5%|
+|Marketing Vested 3 Months|50,000,000|5%|
 |Strategic Partners & Reserve|30,000,000|3%|
 ___
 
