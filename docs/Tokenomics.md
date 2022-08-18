@@ -12,7 +12,7 @@
 |Team Token|50,000,000|5%|
 |Team Token Vested|50,000,000|5% (Vested)|
 |Airdrops|15,000,000|1.5%|
-|Marketing Vested 3 Months|50,000,000|5%|
+|Marketing Vested 3 Months|50,000,000|5% (Vested)|
 |Strategic Partners & Reserve|30,000,000|3%|
 ___
 
