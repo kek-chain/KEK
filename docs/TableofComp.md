@@ -3,7 +3,7 @@
 | Parameter | Ethereum | Solana | KeK Chain |
 |-----------|----------|--------|-----------|
 | TPS| ~ 7 tps | ~ 65K tps | ~75k tps  |
-| Consensus | PoW | PoSH | PoSA |
+| Consensus | PoW | PoSH | PoAWR |
 | Nodes | 14K | 1250 | 21 |
 | Block Time | ~15s  | ~2s | ~2.7s |
 | TXn Fee | ~30usd-120usd | ~0.00001usd | ~0.00001usd |
