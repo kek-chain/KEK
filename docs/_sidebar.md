@@ -5,7 +5,7 @@
 * [Table of Comparison](TableofComp.md)
 * [Basic Knowledge](Basic.md)
 * [Whitepaper](Whitepaper.md)
-* [testnet](Testnet.md)
+* [Testnet](Testnet.md)
 * [For Developers](Gettingstarted.md)
 * [Ecosystem](Ecosystem.md)
 * [Memes](Memes.md)
