@@ -15,7 +15,7 @@
 |Strategic Partners & Reserve|30,000,000|3%(Vested)|
 ___
 
-|Tax|10% Buy & Sell|
+|Tax|10% Sell Tax|
 |-----|-----|
 |Tax Allocated|60% Development , 40% Marketing|
 
