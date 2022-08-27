@@ -21,4 +21,8 @@ Our Testnet can also be added manually by adding the following values
 |Explorer|https://testnet-explorer.kekchain.com/|
 
 
+### Faucet
+You can access Free Testnet KEKS via our [faucet](https://faucet.kekchain.com/)
+
+
 ___
