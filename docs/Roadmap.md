@@ -4,8 +4,8 @@
 
 |Goal  |   Status|
 |------|----------|
-|Public Testnet||
-|Block Explorer for Testnet
+|Public Testnet|✔|
+|Block Explorer for Testnet|✔|
 |Market Tracker Listing||
 |CEX Listing|
 
@@ -15,7 +15,7 @@
 |------|----------|
 |Mainnet Beta Development||
 |Block Explorer for Mainnet
-|Mainnet Airdrop to LT holders|
+|Marketing Campaign|
 |Open Partnership for Ecosystem|
 
 ## Q1 2023
