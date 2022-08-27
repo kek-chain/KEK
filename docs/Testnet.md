@@ -22,7 +22,7 @@ Our Testnet can also be added manually by adding the following values
 
 
 ### Faucet
-You can access Free Testnet KEKS via our [faucet](https://faucet.kekchain.com/)
+You can access Free Testnet KEKs via our [faucet](https://faucet.kekchain.com/)
 
 
 ___
