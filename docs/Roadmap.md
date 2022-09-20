@@ -13,10 +13,10 @@
 
 |Goal  |   Status|
 |------|----------|
-|Mainnet Beta Development||
-|Block Explorer for Mainnet
+|Mainnet Beta Development|✔|
+|Block Explorer for Mainnet|✔|
 |Marketing Campaign|
-|Open Partnership for Ecosystem|
+|Open Partnership for Ecosystem||
 
 ## Q1 2023
 |Goal  |   Status|
